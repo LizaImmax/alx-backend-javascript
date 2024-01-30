@@ -1,2 +1,6 @@
-NodeJS Basics
-This project contains tasks for learning to the basics of NodeJS
+0x05. NodeJS Basics
+Back-end
+JavaScript
+ES6
+NodeJS
+ExpressJS
